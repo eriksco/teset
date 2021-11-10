@@ -1,0 +1,7 @@
+gwHost=dpsdemo2.skyfencenet.com
+gwPort=443
+minListeningPort=1024
+maxListeningPort=65535
+disablePac=0
+defaultPac=http://web-wcg.demo.com:8083/proxy.pac
+verificationDomains=
